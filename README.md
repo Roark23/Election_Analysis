@@ -26,5 +26,5 @@ Analyzing the election results, we can draw a few conclusions:
 
 ## Election-Audit Summary
 The election commision should use this Python script for future elections. The script can be modified for any election.
-### 1) This script can be modified to account for different counties. The script could be modified to account for more or less counties in an election.
-### 2) It can also account for different cadidates. The script could possibly analyze many more candidates for an election. It can also be modified to only look at a couple candidates. Overall, the script is written in a way where we can modify the number of counties and cadidates we want to analyze for any election.
+##### 1) This script can be modified to account for different counties. The script could be modified to account for more or less counties in an election.
+##### 2) It can also account for different cadidates. The script could possibly analyze many more candidates for an election. It can also be modified to only look at a couple candidates. Overall, the script is written in a way where we can modify the number of counties and cadidates we want to analyze for any election.
